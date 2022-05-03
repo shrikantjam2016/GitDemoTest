@@ -20,5 +20,10 @@ public class TestGitDemo {
 	{
 		System.out.println("in the branch 2 for test");
 	}
+	
+	public void branch_test3()
+	{
+		System.out.println("in the branch 3 for test by Git Stuff");
+	}
 
 }
